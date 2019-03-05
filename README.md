@@ -17,3 +17,21 @@ lock.unlock();
 // do something
 lock.unlock();
 ```
+
+## Maven
+Repository:
+```
+<repository>
+    <id>akarin-repo</id>
+    <url>https://raw.githubusercontent.com/Akarin-project/akarin-repo/master/repository</url>
+</repository>
+```
+
+Dependency:
+```
+<dependency>
+    <groupId>moe.kira.locks.spinning</groupId>
+    <artifactId>reentrant-spinning-lock</artifactId>
+    <version>1.0</version>
+</dependency>
+```
