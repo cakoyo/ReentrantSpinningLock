@@ -1,0 +1,57 @@
+# Eclipse stuff
+.settings/
+.externalToolBuilders/
+.classpath
+
+# intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# netbeans
+nbproject/
+nbactions.xml
+
+# vim
+.*.sw[a-p]
+
+# Mac filesystem dust
+.DS_Store/
+
+# Linux temp files
+*~
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# other stuff
+agitar/
+build/
+target/
+bin/
+dist/
+META-INF/
+manifest.mf
+*.bak
+
+dependency-reduced-pom.xml

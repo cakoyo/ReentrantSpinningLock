@@ -1,0 +1,4 @@
+name: RegionAPI
+main: moe.kira.region.api.plugin.RegionPlugin
+version: 1
+author: Sotr
