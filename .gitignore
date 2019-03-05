@@ -2,6 +2,7 @@
 .settings/
 .externalToolBuilders/
 .classpath
+.project
 
 # intellij
 *.iml
